@@ -1,7 +1,10 @@
 .choresText {
-   color: black;
+   color: rgb(0, 3, 170);
+   font-family: "Lucida Handwriting", "Copperplate", "Papyrus";
 }
 
 .choresHeading {
    color: black;
+   text-decoration-line: underline;
+   font-style: italic;
 }
