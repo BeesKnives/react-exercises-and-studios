@@ -60,7 +60,7 @@
       "fact2": "Adult saltwater crocodiles have 66 teeth on average and the greatest bite pressure of any animal in the world",
       "fact3": "When sea turtles sleep, they can slow their heart rate as slow as 4 beats per minute to conserve oxygen",
       "image": "https://em-content.zobj.net/thumbs/240/google/350/crocodile_1f40a.png",
-      "creatureCheck":  "ture",
+      "creatureCheck":  "true",
       "fishCheck": "false"
    }, {
       "id":8,

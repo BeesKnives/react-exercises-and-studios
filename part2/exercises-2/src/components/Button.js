@@ -1,9 +1,15 @@
 import './styles.css';
 
+
+
+
 function Button() {
+   function onLearnMore(){
+      alert("Water is good!")
+   }
 
    return ( 
-         <button>
+         <button onClick={onLearnMore}>
             Learn More
          </button>
    );

@@ -6,8 +6,8 @@ import RecipePhoto from './components/Photos.js'
 
 function App() {
   return (
-    <div className="App">
-      <RecipePhoto className="recipePhotoBlock"/>
+    <div className="recipePhotoBlock">
+      <RecipePhoto />
       <div>
         <RecipeDescription />
         <RecipeIngredients />
