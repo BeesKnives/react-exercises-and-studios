@@ -5,7 +5,7 @@ function RateARecipe(props) {
   function pickStars() {
     return (
       <div>
-        <h3>{stars[(props.rating) - 1]}</h3>
+        <h3 key={props.rating}>{stars[(props.rating) - 1]}</h3>
       </div>
     );
   };
